@@ -24,7 +24,8 @@
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": "Chaudhary cyber"
+            "value": "ahma808"
+        
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
