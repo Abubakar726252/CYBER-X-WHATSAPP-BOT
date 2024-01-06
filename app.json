@@ -11,7 +11,8 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": "cyber-x@;;;ZFEkAA4L#oizo1ZOJjTyA3ipMEE5SymisBFa4Eu2m6UYm-2fq1J8",
+        "SESSION_ID": "cyber-x@;;;
+      ",
             "required": true,
             "value": ""
         },
